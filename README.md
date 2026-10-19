@@ -17,6 +17,20 @@ This project presents a containerized workspace platform designed to support bro
 - **Shared research infrastructure** — a common entry point for computational work across a research team.
 - **Maintainability and data protection** — designed with operational maintenance and responsible handling of research data in mind.
 
+## Platform Preview
+
+### ResearchFlow Portal
+
+The ResearchFlow portal provides a unified entry point for research data workflows, including data upload, export review, file management, and audit-related functions.
+
+![ResearchFlow portal dashboard](assets/researchflow-dashboard.png)
+
+### JupyterLab Workspace
+
+The computational workspace provides access to interactive notebooks and supported computing environments. Available kernels depend on the deployment configuration.
+
+![JupyterLab launcher](assets/jupyterlab-launcher.png)
+
 ## Technology
 
 - **JupyterLab** — browser-based notebooks and interactive analysis.
