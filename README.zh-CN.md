@@ -15,6 +15,20 @@
 - **共享科研基础设施**：为课题组的计算与数据分析工作提供统一入口。
 - **可维护性与数据保护**：在平台维护和科研数据处理过程中重视安全与责任边界。
 
+## 平台界面展示
+
+### ResearchFlow 科研门户
+
+ResearchFlow 门户为科研数据工作流提供统一入口，涵盖数据上传、导出审核、文件管理和审计相关功能。
+
+![ResearchFlow 门户首页](assets/researchflow-dashboard.png)
+
+### JupyterLab 分析工作空间
+
+计算工作空间支持交互式 Notebook 和已配置的计算环境。具体可用内核取决于实际部署配置。
+
+![JupyterLab 工作空间启动页](assets/jupyterlab-launcher.png)
+
 ## 技术栈
 
 - **JupyterLab**：基于浏览器的 Notebook 与交互式分析环境。
