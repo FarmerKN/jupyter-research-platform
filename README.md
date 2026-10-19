@@ -26,17 +26,6 @@ This project presents a containerized workspace platform designed to support bro
 
 The exact services, kernels, and features available to users depend on the current deployment. This showcase repository does not itself deploy or operate the platform.
 
-## Planned Documentation
-
-As the public showcase develops, it may include:
-
-- Sanitized screenshots of the user interface.
-- A high-level system architecture diagram.
-- Descriptions of workspace and file-management workflows.
-- Notes on design decisions and operational lessons.
-
-Production source code, deployment manifests, private network details, credentials, and research datasets are not included.
-
 ## Security and Privacy
 
 This platform is intended for authorized research collaborators. Public materials will not include:
@@ -47,13 +36,6 @@ This platform is intended for authorized research collaborators. Public material
 - Unreleased research data or materials that have not been approved for public release.
 
 Screenshots and examples will be reviewed and sanitized before publication.
-
-## Roadmap
-
-- [ ] Add sanitized interface screenshots.
-- [ ] Publish a simplified architecture diagram.
-- [ ] Document key features and design decisions.
-- [ ] Consider sanitized, reusable examples where appropriate.
 
 ## Maintainer
 
